@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lev-001",
+    "studentId": "std-006",
+    "studentName": "เด็กหญิงนภัสสร อริยทรัพย์",
+    "className": "ม.1/1",
+    "leaveDate": "2026-09-29",
+    "reason": "ลากิจไปร่วมงานบำเพ็ญกุศลญาติผู้ใหญ่",
+    "status": "pending",
+    "guardianPhone": "086-789-0123"
+  },
+  {
+    "id": "lev-002",
+    "studentId": "std-002",
+    "studentName": "เด็กหญิงจิราพร พิทยานนท์",
+    "className": "ม.1/1",
+    "leaveDate": "2026-09-26",
+    "reason": "ลาป่วย มีไข้หวัดพบแพทย์แล้ว",
+    "status": "approved",
+    "guardianPhone": "082-345-6789"
+  },
+  {
+    "id": "lev-003",
+    "studentId": "std-008",
+    "studentName": "เด็กหญิงพรพิมล รัตนโกสินทร์",
+    "className": "ม.1/1",
+    "leaveDate": "2026-09-25",
+    "reason": "ลาป่วย ท้องเสีย",
+    "status": "approved",
+    "guardianPhone": "088-901-2345"
+  }
+]

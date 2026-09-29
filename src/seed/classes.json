@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cls-m1-1",
+    "name": "มัธยมศึกษาปีที่ 1/1",
+    "shortCode": "ม.1/1",
+    "gradeLevel": "มัธยมศึกษาปีที่ 1",
+    "roomNumber": "1101",
+    "homeroomTeacherId": "u-teacher-01",
+    "homeroomTeacherName": "ครูสมชาย ใจดี",
+    "studentCount": 10,
+    "isActive": true
+  },
+  {
+    "id": "cls-m1-2",
+    "name": "มัธยมศึกษาปีที่ 1/2",
+    "shortCode": "ม.1/2",
+    "gradeLevel": "มัธยมศึกษาปีที่ 1",
+    "roomNumber": "1102",
+    "homeroomTeacherId": "u-teacher-02",
+    "homeroomTeacherName": "ครูวิภา รุ่งเรือง",
+    "studentCount": 10,
+    "isActive": true
+  },
+  {
+    "id": "cls-m2-1",
+    "name": "มัธยมศึกษาปีที่ 2/1",
+    "shortCode": "ม.2/1",
+    "gradeLevel": "มัธยมศึกษาปีที่ 2",
+    "roomNumber": "1201",
+    "homeroomTeacherId": "u-teacher-03",
+    "homeroomTeacherName": "ครูกานดา สดใส",
+    "studentCount": 10,
+    "isActive": true
+  },
+  {
+    "id": "cls-m3-1",
+    "name": "มัธยมศึกษาปีที่ 3/1",
+    "shortCode": "ม.3/1",
+    "gradeLevel": "มัธยมศึกษาปีที่ 3",
+    "roomNumber": "1301",
+    "homeroomTeacherId": "u-teacher-04",
+    "homeroomTeacherName": "ครูชานนท์ ยิ่งยง",
+    "studentCount": 10,
+    "isActive": true
+  }
+]

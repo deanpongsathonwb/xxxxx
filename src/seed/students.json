@@ -1,0 +1,122 @@
+[
+  {
+    "id": "std-001",
+    "studentCode": "56101",
+    "name": "เด็กชายกิตติศักดิ์ วงศ์สว่าง",
+    "seatNumber": 1,
+    "classId": "cls-m1-1",
+    "gender": "male",
+    "guardianName": "นายเอกชัย วงศ์สว่าง",
+    "guardianPhone": "081-234-5678",
+    "imageKey": "std01",
+    "accumulatedAbsences": 0
+  },
+  {
+    "id": "std-002",
+    "studentCode": "56102",
+    "name": "เด็กหญิงจิราพร พิทยานนท์",
+    "seatNumber": 2,
+    "classId": "cls-m1-1",
+    "gender": "female",
+    "guardianName": "นางศิริพร พิทยานนท์",
+    "guardianPhone": "082-345-6789",
+    "imageKey": "std02",
+    "accumulatedAbsences": 1
+  },
+  {
+    "id": "std-003",
+    "studentCode": "56103",
+    "name": "เด็กชายณัฐวุฒิ สิทธิโชค",
+    "seatNumber": 3,
+    "classId": "cls-m1-1",
+    "gender": "male",
+    "guardianName": "นายชาตรี สิทธิโชค",
+    "guardianPhone": "083-456-7890",
+    "imageKey": "std03",
+    "accumulatedAbsences": 4
+  },
+  {
+    "id": "std-004",
+    "studentCode": "56104",
+    "name": "เด็กหญิงทิพวรรณ เจริญสุข",
+    "seatNumber": 4,
+    "classId": "cls-m1-1",
+    "gender": "female",
+    "guardianName": "นางวรรณา เจริญสุข",
+    "guardianPhone": "084-567-8901",
+    "imageKey": "std04",
+    "accumulatedAbsences": 0
+  },
+  {
+    "id": "std-005",
+    "studentCode": "56105",
+    "name": "เด็กชายธีรเดช เมธากุล",
+    "seatNumber": 5,
+    "classId": "cls-m1-1",
+    "gender": "male",
+    "guardianName": "นายปรีชา เมธากุล",
+    "guardianPhone": "085-678-9012",
+    "imageKey": "std05",
+    "accumulatedAbsences": 0
+  },
+  {
+    "id": "std-006",
+    "studentCode": "56106",
+    "name": "เด็กหญิงนภัสสร อริยทรัพย์",
+    "seatNumber": 6,
+    "classId": "cls-m1-1",
+    "gender": "female",
+    "guardianName": "นางนิตยา อริยทรัพย์",
+    "guardianPhone": "086-789-0123",
+    "imageKey": "std06",
+    "accumulatedAbsences": 1
+  },
+  {
+    "id": "std-007",
+    "studentCode": "56107",
+    "name": "เด็กชายปฏิภาณ กาญจนา",
+    "seatNumber": 7,
+    "classId": "cls-m1-1",
+    "gender": "male",
+    "guardianName": "นายสมเกียรติ กาญจนา",
+    "guardianPhone": "087-890-1234",
+    "imageKey": "std07",
+    "accumulatedAbsences": 5
+  },
+  {
+    "id": "std-008",
+    "studentCode": "56108",
+    "name": "เด็กหญิงพรพิมล รัตนโกสินทร์",
+    "seatNumber": 8,
+    "classId": "cls-m1-1",
+    "gender": "female",
+    "guardianName": "นางรัชนี รัตนโกสินทร์",
+    "guardianPhone": "088-901-2345",
+    "imageKey": "std08",
+    "accumulatedAbsences": 0
+  },
+  {
+    "id": "std-009",
+    "studentCode": "56109",
+    "name": "เด็กชายภานุพงศ์ บุญชู",
+    "seatNumber": 9,
+    "classId": "cls-m1-1",
+    "gender": "male",
+    "guardianName": "นายมานพ บุญชู",
+    "guardianPhone": "089-012-3456",
+    "imageKey": "std09",
+    "accumulatedAbsences": 0
+  },
+  {
+    "id": "std-010",
+    "studentCode": "56110",
+    "name": "เด็กหญิงศุภิสรา รักษ์ไทย",
+    "seatNumber": 10,
+    "classId": "cls-m1-1",
+    "gender": "female",
+    "guardianName": "นางสุดา รักษ์ไทย",
+    "guardianPhone": "080-123-4567",
+    "imageKey": "std10",
+    "accumulatedAbsences": 0
+  }
+]

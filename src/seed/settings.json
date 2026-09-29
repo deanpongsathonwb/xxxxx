@@ -1,0 +1,12 @@
+{
+  "systemOwner": "โรงเรียนสาธิตเทศบาลนครวิทยา",
+  "academicYear": "2567",
+  "academicTerm": "2",
+  "lateThresholdMinutes": 15,
+  "morningAssemblyTime": "08:00",
+  "allowTeacherSelfApproval": true,
+  "notificationLineNotify": false,
+  "contactEmail": "admin@demonstrationschool.ac.th",
+  "schoolBranch": "วิทยาเขตหลัก",
+  "autoMarkAbsentAfter": "09:00"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "att-20260929-m1-1",
+    "classId": "cls-m1-1",
+    "date": "2026-09-29",
+    "recordedBy": "ครูสมชาย ใจดี",
+    "recordedAt": "08:10",
+    "isSubmitted": true,
+    "records": [
+      {"studentId": "std-001", "status": "present", "checkInTime": "07:45", "remark": ""},
+      {"studentId": "std-002", "status": "present", "checkInTime": "07:50", "remark": ""},
+      {"studentId": "std-003", "status": "absent", "checkInTime": "-", "remark": "ขาดเรียนไม่แจ้ง"},
+      {"studentId": "std-004", "status": "present", "checkInTime": "07:35", "remark": ""},
+      {"studentId": "std-005", "status": "late", "checkInTime": "08:15", "remark": "รถรับส่งเสีย"},
+      {"studentId": "std-006", "status": "leave", "checkInTime": "-", "remark": "ลากิจไปงานครอบครัว"},
+      {"studentId": "std-007", "status": "absent", "checkInTime": "-", "remark": "ขาดเรียน"},
+      {"studentId": "std-008", "status": "present", "checkInTime": "07:40", "remark": ""},
+      {"studentId": "std-009", "status": "present", "checkInTime": "07:52", "remark": ""},
+      {"studentId": "std-010", "status": "present", "checkInTime": "07:30", "remark": ""}
+    ]
+  },
+  {
+    "id": "att-20260928-m1-1",
+    "classId": "cls-m1-1",
+    "date": "2026-09-28",
+    "recordedBy": "ครูสมชาย ใจดี",
+    "recordedAt": "08:12",
+    "isSubmitted": true,
+    "records": [
+      {"studentId": "std-001", "status": "present", "checkInTime": "07:42", "remark": ""},
+      {"studentId": "std-002", "status": "late", "checkInTime": "08:10", "remark": ""},
+      {"studentId": "std-003", "status": "absent", "checkInTime": "-", "remark": "ขาดเรียน"},
+      {"studentId": "std-004", "status": "present", "checkInTime": "07:30", "remark": ""},
+      {"studentId": "std-005", "status": "present", "checkInTime": "07:45", "remark": ""},
+      {"studentId": "std-006", "status": "present", "checkInTime": "07:50", "remark": ""},
+      {"studentId": "std-007", "status": "absent", "checkInTime": "-", "remark": "ขาดเรียน"},
+      {"studentId": "std-008", "status": "present", "checkInTime": "07:48", "remark": ""},
+      {"studentId": "std-009", "status": "present", "checkInTime": "07:55", "remark": ""},
+      {"studentId": "std-010", "status": "present", "checkInTime": "07:35", "remark": ""}
+    ]
+  }
+]

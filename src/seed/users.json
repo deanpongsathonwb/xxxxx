@@ -1,0 +1,24 @@
+[
+  {
+    "id": "u-teacher-01",
+    "username": "teacher.somchai",
+    "name": "ครูสมชาย ใจดี",
+    "role": "teacher",
+    "assignedClassId": "cls-m1-1",
+    "imageKey": "teacher1"
+  },
+  {
+    "id": "u-officer-01",
+    "username": "officer.pranee",
+    "name": "อาจารย์ปราณี รักษ์วินัย",
+    "role": "officer",
+    "imageKey": "officer1"
+  },
+  {
+    "id": "u-admin-01",
+    "username": "admin.system",
+    "name": "นายธนพล สุขสวัสดิ์",
+    "role": "admin",
+    "imageKey": "admin1"
+  }
+]
